@@ -1,0 +1,8 @@
+# 永远不上传的东西
+__pycache__/
+.streamlit/
+数据集/
+data/
+*.pyc
+*.pyo
+*.pyd
