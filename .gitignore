@@ -1,0 +1,5 @@
+__pycache__/
+.streamlit/
+数据集/
+图片素材/
+*.pyc
